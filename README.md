@@ -2,8 +2,8 @@
 # Book-Store
 This is a simple book store that has the following commands:
 
-  **1. Add new book**
-  **2. Display books**
+ 1. **Add new book**
+ 2. **Display books**
   **3. Add a borrower account**
   **4. Borrow a book**
   **5. Return a book**
