@@ -11,6 +11,6 @@ This is a simple book store that has the following commands:
  7. **Add a non-book item**
  8. **Display non-book items**
  9. **Borrow non-book items**
- 10. **Return a non-book item"**
+ 10. **Return a non-book item**
  11. **Creates some random books and items**
  12. **Print the data to a SCV File**
